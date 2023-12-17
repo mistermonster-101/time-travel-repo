@@ -1,6 +1,24 @@
 h1{
-    border-radius: 30px;
+    border-radius: 50px;
     border: 40px goldenrod ridge;
     padding: 40px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
     
+}
+h2{
+    border-radius: 50px;
+    border: 40px goldenrod ridge;
+    padding: 40px;
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p{
+    border-radius: 50px;
+    border: 40px crimson double;
+    padding: 30px;
+    background-color: gold;
+
 }
